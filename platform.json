@@ -55,8 +55,7 @@
     "framework-arduinoadafruitnrf52": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~1.10300.0"
+      "version": "https://github.com/cujomalainey/Adafruit_nRF52_Arduino.git#S340"
     },
     "framework-arduinonordicnrf5": {
       "type": "framework",
